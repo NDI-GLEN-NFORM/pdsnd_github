@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+**Created** on: *02/07/2020*
 
 ### Project Title
-Replace the Project Title
+**Explore US Bikeshare Data**
 
 ### Description
-Describe what your project is about and what it does
+I used Python to understand US Bikeshare Data.
+Calculated statistics and built an interactive environment where a user chooses the data and filters for a dataset to analyze.
 
 ### Files used
-Include the files used
+1. chicago.csv
+1. new_york_city.csv
+1. washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* [GitHub](http://github.com)
+* [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+* [Lam's my-travel-plans project](https://github.com/udacity/course-collaboration-travel-plans)
