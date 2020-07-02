@@ -1,5 +1,5 @@
 ### Date created
-**Created** on: *02/07/2020*
+Created on: *02/07/2020*
 
 ### Project Title
 **Explore US Bikeshare Data**
@@ -18,3 +18,8 @@ Calculated statistics and built an interactive environment where a user chooses 
 * [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 * [Lam's my-travel-plans project](https://github.com/udacity/course-collaboration-travel-plans)
 * [NumPy User Guide](https://docs.scipy.org/doc/numpy-1.13.0/user/index.html)
+
+###Softwares used
+* I used Python 3, NumPy, and pandas installed using Anaconda
+* Atom text editor.
+* A terminal application (Git Bash)
