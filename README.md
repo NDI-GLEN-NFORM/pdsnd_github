@@ -17,3 +17,4 @@ Calculated statistics and built an interactive environment where a user chooses 
 * [GitHub](http://github.com)
 * [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 * [Lam's my-travel-plans project](https://github.com/udacity/course-collaboration-travel-plans)
+* [NumPy User Guide](https://docs.scipy.org/doc/numpy-1.13.0/user/index.html)
