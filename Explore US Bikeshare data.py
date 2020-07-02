@@ -96,7 +96,7 @@ def time_stats(df):
     Returns:
         (int) month-most common months
         (str) day-most common day
-        (int) hour-most common hour 
+        (int) hour-most common hour
     """
 
     print('\nCalculating The Most Frequent Times of Travel...\n')
@@ -148,7 +148,11 @@ def station_stats(df):
 
 
 def trip_duration_stats(df):
-    """Displays statistics on the total and average trip duration."""
+    """Displays statistics on the total and average trip duration.
+    Return:
+        (float) days-total travel Days
+        (float) minutes-mean travel time 
+    """
 
     print('\nCalculating Trip Duration...\n')
     start_time = time.time()
